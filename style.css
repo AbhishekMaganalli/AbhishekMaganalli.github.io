@@ -1,0 +1,49 @@
+
+.logo {
+    height: 30px;
+    width: 30px;
+}
+
+#left-logo {
+    left: 400px;
+
+}
+
+#left-link {
+    left: 400px;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+a {
+    padding: 0px 20px;
+}
+
+.header {
+    line-height: 50px;
+    text-align: center;
+}
+
+.pfp {
+    width: 100%; 
+}
+
+.content {
+    padding: 0px 100px;
+    background-color: gray;
+    
+}
+
+td {
+    padding: 0px 50px;
+    color: #ffffff;
+}
+#Projects {
+text-align: center;
+}
+
+.list{
+display: inline-block;
+}
